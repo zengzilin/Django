@@ -1,2 +1,2 @@
 # Django
-Creating a new branch is faster than you think.
+Creating a new branch is quick AND simple.
